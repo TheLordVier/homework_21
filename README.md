@@ -6,7 +6,7 @@
 
 **main.py** - *файл с основным приложением*
 
-**constants.py** - *исключения (ошибки) приложения*
+**logistician.py** - *исключения (ошибки) приложения*
 
 **.gitignore** - *файлы и папки для игнорирования в системе контроля версий Git*
 
@@ -14,7 +14,7 @@
     - **init.py** - *инициализирующий директорию файл* <br>
     - **abstract_storage.py** - *файл с классом AbstractStorage (абстрактный класс)* <br>
     - **base_storage.py** - *файл с классом BaseStorage (базовый класс)* <br>
-    - **logisticion.py** - *файл с классом Logisticion (логистика)* <br>
+    - **logistician.py** - *файл с классом Logisticion (логистика)* <br>
     - **request.py** - *файл с классом Request (запрос)* <br>
     - **shop.py** - *файл с классом Shop (магазин)* <br>
     - **store.py** - *файл с классом Store (склад)* <br>
